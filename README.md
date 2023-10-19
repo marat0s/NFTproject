@@ -33,7 +33,7 @@ This project allows users to connect their Ethereum wallets and view their NFTs.
 
 ## Usage
 
-1. Open the application in your browser.
+1. Open the [application](https://nft-project-steel.vercel.app/) in your browser.
 2. Click on the "Connect Wallet" button.
 3. Once connected, the application will automatically fetch and display your NFTs.
 
