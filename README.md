@@ -1,4 +1,4 @@
-# NFTproject
+# NFTviewer
 A simple web application to view NFTs associated with a connected Ethereum wallet.
 
 ## Table of Contents
